@@ -1,4 +1,4 @@
-# 🌸 Decora – Event Decoration & Planning Website
+# Decora – Event Decoration & Planning Website
 
 **Decora** is a full event decoration and planning website developed as a group project. It is designed for an event decoration business that creates memorable experiences for weddings, engagements, proposals, parties, and other special occasions.
 
@@ -70,4 +70,4 @@ The main objective of Decora is to simplify the event decoration booking process
 
 
 
-*Creating beautiful experiences for life's special moments.* 🌸
+
